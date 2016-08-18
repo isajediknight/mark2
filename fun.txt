@@ -1,1 +1,2 @@
-Adding a text file.
+adding the text file and it's awsome.
+feature_1_b is adding code here.

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lorem ipsum dolorem ipsum cake requiem ustedes.  Fonte etave calormen.  Nuncan havesta your.  Naka daka thire!  Kaplah!  Jaffa Cree Choppa Eye!
+=======
+Lorem ipsum dolorem ipsum nut requiem usted.  Fonte etuve callormen.  Nuncan havesta your.  Naka daka thire!
+>>>>>>> aa2e64db9e131bd6ed54ad52c95a55063a610649
